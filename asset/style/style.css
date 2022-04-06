@@ -1,0 +1,21 @@
+body{
+    /* background-color: rgb(118, 150, 255); */
+    background-image: url("https://www.fond-ecran-hd.net/Public/uploads/2019-01-14/1230.jpg");
+    width: 100%;
+  }
+  form{
+    padding-top: 1%;
+    padding-bottom: 1%;
+     text-align: center;
+     background-color: whitesmoke;
+     width: 25%;
+     margin-left: 37%;
+   }
+   /* h3{
+     text-align: center;
+     background-color: pink;
+     height: 40px;
+     margin:0px;
+     padding: 0px;
+
+   } */
